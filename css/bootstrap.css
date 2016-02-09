@@ -5902,7 +5902,7 @@ button.close {
 }
 .modal-dialog {
   position: relative;
-  width: auto;
+  width: 1500px;
   margin: 10px;
 }
 .modal-content {
