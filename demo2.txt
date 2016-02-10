@@ -1,0 +1,1544 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+
+
+<head>
+
+
+
+    <meta charset="utf-8">
+
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <meta name="description" content="">
+
+    <meta name="author" content="">
+
+
+
+    <title>CHUNKY CHICKEN</title>
+
+
+
+    <!-- Bootstrap Core CSS -->
+
+    <link rel="stylesheet" href="css/bootstrap.min.css" type="text/css">
+
+
+
+    <!-- Custom Fonts -->
+
+    <link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <link href='http://fonts.googleapis.com/css?family=Merriweather:400,300,300italic,400italic,700,700italic,900,900italic' rel='stylesheet' type='text/css'>
+
+    <link rel="stylesheet" href="font-awesome/css/font-awesome.min.css" type="text/css">
+
+
+
+    <!-- Plugin CSS -->
+
+    <link rel="stylesheet" href="css/animate.min.css" type="text/css">
+
+
+
+    <!-- Custom CSS -->
+
+    <link rel="stylesheet" href="css/creative.css" type="text/css">
+
+
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+
+    <!--[if lt IE 9]>
+
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+
+    <![endif]-->
+
+
+
+</head>
+
+
+
+<body id="page-top">
+
+
+
+    <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+
+        <div class="container-fluid">
+
+            <div class="navbar-header page-scroll">
+
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+
+                    <span class="sr-only">Toggle navigation</span>
+
+                    <span class="icon-bar"></span>
+
+                    <span class="icon-bar"></span>
+
+                    <span class="icon-bar"></span>
+
+                </button>
+
+                <a href="#page-top"></a>
+
+                    </li>
+
+					<li>
+
+                        
+
+                
+
+                    		<img class="img-responsive center-block" src="logo.png" height="100" width="100">
+
+
+
+                    </li>
+
+                   
+
+            </dIV>
+
+			
+
+
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
+                <ul class="nav navbar-nav navbar-right">
+
+                    <li>
+
+                        <a class="page-scroll" href="chunky.html">Home</a>
+
+                    </li>
+
+					<li>
+
+                        <a class="page-scroll" href="chunky.html">About</a>
+
+                    </li>
+
+                    <li>
+
+                        <a class="page-scroll" href="chunky.html">Our Story</a>
+
+                    </li>
+
+                    <li>
+
+                        <a class="page-scroll" href="chunky.html">Our Stores</a>
+
+                    </li>
+
+                    <li>
+
+                        <a class="page-scroll" href="chunky.html">Franchise</a>
+
+                    </li>
+
+					<li>
+
+                        <a class="page-scroll" href="chunky.html">Development</a>
+
+                    </li>
+
+					<li>
+
+                        <a class="page-scroll" href="chunky.html">Contact Us</a>
+
+                    </li>
+
+                </ul>
+
+
+            </div>
+
+            <!-- /.navbar-collapse -->
+
+        </div>
+
+        <!-- /.container-fluid -->
+
+    </nav>
+
+
+
+    
+
+       
+	<section class="bg-primary" id="India">
+
+        <div class="container">
+
+            <div class="row">
+
+
+
+            <div class="col-lg-6 col-md-6 ">
+
+                    <div class="service-box">
+
+                        <h3>CANADA</h3>
+
+
+
+                        <p class="text-muted">
+
+                        <ul>
+
+                    <li>TORONTO</a></li>
+
+
+
+
+
+                    </ul>
+
+ </br></p>
+
+                    </div>
+
+
+
+                </div>
+
+                <div class="col-lg-6 col-md-6">
+
+                    <div class="service-box" id="uk">
+
+                        <h4>CHUNKY CHICKEN NOW OPEN IN TORONTO</h4>
+
+                        <p class="text-faded">
+Another Commonwealth country is set to enjoy the Chunky Chicken experience. This time it is the turn of Canada, where Chunky Chicken has opened its first store in Toronto. As well as being our second overseas, it is our first branch in North America. With Canadians enjoying their fried chicken, we aim to add variety to the marketplace.
+
+                        </br></p>
+						<P>For Franchise Enquiries please go to FRANCHISING.</P>
+						<H4>Toronto</H4>
+						<P>6001</P>
+						<P>14th Avenue</P>
+						<P>Markham</P>
+						<P>Ontario</P>
+						<P>L3S 0A2</P>
+					
+
+
+                    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+                    </div>
+
+                <div style="padding:90px">
+                     
+
+                    <img class="img-responsive center-block" id="ukimage1" src="canada1.png" style=width:800px">
+					<img class="img-responsive center-block" id="ukimage1" src="canada2.png" style=width:800px">
+					<img class="img-responsive center-block" id="ukimage1" src="canada3.png" style=width:800px">
+					<img class="img-responsive center-block" id="ukimage1" src="canada4.png" style=width:800px">
+					
+
+                </div>
+
+
+
+                </div>
+
+
+
+                </div>
+
+            </div>
+
+
+
+
+
+    </section>
+
+	<!-- jQuery -->
+
+    <script src="js/jquery.js"></script>
+
+
+
+    <!-- Bootstrap Core JavaScript -->
+
+    <script src="js/bootstrap.min.js"></script>
+
+
+
+    <!-- Plugin JavaScript -->
+
+    <script src="js/jquery.easing.min.js"></script>
+
+    <script src="js/jquery.fittext.js"></script>
+
+    <script src="js/wow.min.js"></script>
+
+
+
+    <!-- Custom Theme JavaScript -->
+
+    <script src="js/creative.js">
+
+	</script>
+
+	<script>
+
+		 $("#btn1").click(function()
+
+		 {
+
+		 
+
+		 $("#bodycontent").html($("#part1").html());
+
+		 $("#modaltitle").html("Requirements");
+
+		 });
+
+		  $("#btn2").click(function()
+
+		 {
+
+		 
+
+		 $("#bodycontent").html($("#part2").html());
+
+		 $("#modaltitle").html("WHAT YOU WILL GET");
+
+		 });
+
+		  $("#btn3").click(function()
+
+		 {
+
+		 
+
+		 $("#bodycontent").html($("#part3").html());
+
+		 $("#modaltitle").html("NEXT STEPS");
+
+		 
+
+		 });
+
+		  $("#btn4").click(function()
+
+		 {
+
+		 
+
+		 $("#bodycontent").html($("#part4").html());
+
+		 $("#modaltitle").html("FRANCHISE ENQUIRY");
+
+		 });
+
+         $("#interbtn").click(function(){
+
+                          $("#ukimage1").hide();
+
+                             $("#uk").hide();
+
+                              $("#ukimage2").show();
+
+                              $("#ukimage2").show();
+
+                              $("#in").show();
+
+
+
+                              
+
+                          });
+
+                          $("#ukbtn").click(function(){
+
+                                               $("#ukimage2").hide();
+
+                                               $("#ukimage1").show();
+
+                                                $("#in").hide();
+
+                                               $("#uk").show();
+
+                                            
+
+                                               });
+
+                                               
+
+
+
+                          
+
+		 </script>
+
+   
+
+   <footer>
+
+   <div class="container">
+
+   <div class="row">
+
+   <div class="col-md-4">
+
+   <span class="copyright">CHUNKYCHICKEN © 1515
+
+   </span>
+
+   </div>
+
+   <div class="col-md-4">
+
+   <ul class="list-inline social-buttons">
+
+   <li><a href="#"><i class="fa fa-twitter"></i></a>
+
+   </li>
+
+   <li><a href="#"><i class="fa fa-facebook"></i></a>
+
+   </li>
+
+   <li><a href="#"><i class="fa fa-linkedin"></i></a>
+
+   </li>
+
+   </ul>
+
+   </div>
+
+   <div class="col-md-4">
+
+   <ul class="list-inline quicklinks">
+
+   <li><a href="#">Privacy Policy</a>
+
+   </li>
+
+   <li><a href="#">Terms of Use</a>
+
+   </li>
+
+   </ul>
+
+   </div>
+
+   </div>
+
+   </div>
+
+   </footer>
+
+
+
+</body>
+
+
+
+
+
+
+
+	   <div class="modal fade" id="myModal" role="dialog">
+
+    <div class="modal-dialog">
+
+    
+
+      <!-- Modal content-->
+
+      <div class="modal-content">
+
+        <div class="modal-header">
+
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+
+          <h4 class="modal-title" id="modaltitle">Requirements</h4>
+
+		  
+
+        </div>
+
+        <div class="modal-body" id="bodycontent">
+
+		<h1>welcome to html</h1>
+
+		
+
+		</div>
+
+        <div class="modal-footer">
+
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+		  
+
+        </div>
+
+      </div>
+
+      </div>
+
+	  <div id="part1" style="display:none">
+
+	  <h1>What you need to know...</h1>
+
+          <p>To run your own business is no easy undertaking and running your business you will as a Franchisee at Chunky Chicken. We are here to support you on every step of your venture however the end result is up to you. Therefore we do not shy away from giving you the following advise:</p>
+
+          <ul>
+
+		  <li> You need to be passionate about your work. Being a Franchisee means accepting responsibility to run a business in an ethical and profitable manner. You are responsible for the well being of your employees and yourself and, often enough you have taken on a responsibility to feed several mouths other than your families and your own. It is hard work, at least in the beginning, until your business is settled and operating well. This usually takes up to 1,5 year and in some cases longer depending on the location and market you are operating in.</li>
+
+		  <li> You need to be driven, have a vision and a desire to succeed.</li>
+
+		  <li> Be prepared to spend long hours at your store and be a hands-on operator with a clear customer focused approach. After all, it is the customers who pay you and us!</li>
+
+		  <li> You need to be passionate about quality because that is what we are about primarily.</li>
+
+		  <li> You need to managerial experience, preferably within the service industry, with the necessary business skills to operate and grow a business.</li>
+
+		  <li> You need to bring sufficient capital to purchase or lease premises, furniture, fixtures and equipment necessary for the Chunky Chicken store. Do not start your business by putting yourself in a high debt situation!</li>
+
+		 </ul>
+
+		 </div>
+
+		 
+
+	  <div id="part2" style="display:none">
+
+	  <h1>Training</h1>
+
+          <p> You and your senior team will be required to attend 12 to 16 weeks training at our training center or selected outlets. Training is not a one off at Chunky Chicken. It is a way of life and the only way you will be able to consistently deliver a high quality of service and indeed fantastic food.</p>
+
+          <p>The training will include:</p>
+
+		  <ul>
+
+		 <li>Practical food preparation</li>
+
+		  <li>Food hygiene and safety</li>
+
+		  <li>Ordering and inventory control</li>
+
+		  <li>Practical work at a store</li>
+
+		  <li>First Aid</li>
+
+		  <li>Train the Trainer and Customer Service</li>
+
+		  <li>Business principals</li>
+
+		  <li>Financial reporting</li>
+
+		 </ul>
+
+		 </div>
+
+		 <div id="part3" style="display:none">
+
+	  <h1>Here are 8 simple steps you need to follow:</h1>
+
+		  <ul>
+
+		 <li>Complete the online Franchise Enquiry Form</li>
+
+		  <li>After a vetting procedure, you will receive a call or email to schedule an initial meeting</li>
+
+		  <li>Franchisee will prepare a business plan to submit to us for our review and discussion</li>
+
+		  <li>Once both parties are satisfied, the Franchise Agreement is signed and a license is bought by Franchisee for his/ her territory</li>
+
+		  <li>Franchisee and Chunky Chicken agree on a suitable location and property for the store
+
+          </li>
+
+		  <li>Franchisee submits to us a copy of all required documentation and permits as a proof of readiness to operate</li>
+
+		  <li>Franchisee attends the Chunky Chicken training</li>
+
+		  <li>Open your store and make money!</li>
+
+		 </ul>
+
+		 </div>
+
+		 <div id="part4" style="display:none">
+
+	  <h1>FRANCHISE ENQUIRY</h1>
+
+          <p>THANK YOU FOR YOUR INTEREST IN OUR FRANCHISE OPPORTUNITIES. PLEASE COMPLETE THE FOLLOWING CONFIDENTIAL INFORMATION, AND WE'LL FORWARD OUR INFORMATION PACK TO YOU.</p>
+
+		  <p>A CHUNKY CHICKEN REPRESENTATIVE WILL CONTACT YOU TO ANSWER ANY QUESTIONS YOU MAY HAVE, BUT PLEASE NOTE THAT YOU ARE UNDER NO OBLIGATION WHATSOEVER AND WILL NOT BE PRESSURED IN ANY WAY.YOUR PRIVACY</p>
+
+		  <form class="form2" id="ChronoContact_FranchiseEnquiryForm" action="saveenquiry.php" method="post" name="ChronoContact_FranchiseEnquiryForm">
+
+                                    <table border="0">
+
+                                        <tbody>
+
+                                            <tr>
+
+                                                <td>
+
+                                                    <table cellspacing="0" cellpadding="0" align="center">
+
+                                                        <tbody>
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                    <h2 class="formtable">Name and Address</h2>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>First Name:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input class"txtfield" id="firstname" type="text" size="15" name="FirstName"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Surname:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="surname" type="text" size="15" name="Surname"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Email Address:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="email" type="text" size="15" name="eMail"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Verify Email Address:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="emailveri" type="text" size="15" name="eMailVeri"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Street and Number:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="address1" type="text" size="15" name="Address1"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>City:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="suburb" type="text" size="15" name="Suburb"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Province/Territory:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="province" type="text" size="15" name="Province"></input>
+
+                                                                </td>
+
+                                                            </tr>                       
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Zip/Post Code:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="postcode" type="text" size="8" name="PostCode"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Length of time at this address:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="timeaddress" type="text" size="15" name="TimeAddress"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Marital Status:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="maritalstatus" type="text" size="15" name="MaritalStatus"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Date of Birth:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="dateofbirth" type="text" size="10" name="DateOfBirth"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Gender:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="gender" type="text" size="15" name="Gender"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Nationality:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="nationality" type="text" size="15" name="Nationality"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                    <h2 class="formtable">Phone</h2>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Business:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="dayphone" type="text" size="15" name="DayPhone"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Home:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="ahphone" type="text" size="15" name="AHPhone"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Mobile:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="mobile" type="text" size="15" name="Mobile"></input>
+
+                                                                </td>
+
+                                                            </tr>                       
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                    <h2 class="formtable">Work History</h2>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Present Occupation:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="occupation" type="text" size="15" name="Occupation"></input>
+
+                                                                </td>                           
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Employer's Name:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="empname" type="text" size="15" name="EmpName"></input>       
+
+                                                                </td>                           
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Street and Number:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="empaddress1" type="text" size="15" name="EmpAddress1"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>City:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="empcity" type="text" size="15" name="EmpCity"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Province/Territory:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="empprovince" type="text" size="15" name="EmpProvince"></input>
+
+                                                                </td>
+
+                                                            </tr>                       
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Zip/Post Code:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="empzipcode" type="text" size="8" name="EmpZipcode"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>(If Self Employed)<br>Details of Business:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="bizdetails" type="text" size="15" name="BizDetails"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Professional<br>Qualifications:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <textarea id="proquals" cols="15" rows="5" name="ProQuals"></textarea>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>(If Director of LLC)<br>Company Reg. No.:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="llcregno" type="text" size="15" name="LLCRegNo"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>How much capital do you have<br>
+
+                                                                    available to invest in the<br>
+
+                                                                    franchise?</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="capital" type="text" size="15" name="Capital"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>How do you intend to finance<br>
+
+                                                                    the business? Which proportion of
+
+                                                                    project costs (if any) do you<br>
+
+                                                                    intend to follow?</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="finance" type="text" size="15" name="Finance"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Have you ever been declared bankrupt?</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="bankruptcy" type="text" size="3" name="Bankruptcy"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Please give details if so:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <textarea id="yesbankrupt" cols="15" rows="5" name="YesBankrupt"></textarea>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Do you have any Provincial or Territorial Court orders?</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="provcourts" type="text" size="3" name="ProvCourts"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                    <p class="quotes">(Please note that this does not necessarily adversely affect your application, but allows us a greater insight if we are to successfully obtain finance on your behalf).</p>
+
+                                                                    
+
+                                                                    <p class="redtext">If available, please provide brief assets and liabilities statement and enclosed with application.</p>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                    <h2 class="formtable">Franchise Sites</h2>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Have you ever operated a franchise before?</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="franchiseop" type="text" size="3" name="FranchiseOp"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>If so please give details:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <textarea id="yesfranchise" cols="15" rows="5" name="YesFranchise"></textarea>
+
+                                                                </td>
+
+                                                            </tr>                       
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                    <p class="redtext">If 'yes', please provide the following information:</h2>
+
+                                                                </td>
+
+                                                            </tr>                       
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Do you have an existing site or sites?</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="existsite" type="text" size="3" name="ExistSite"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                    <p class="redtext">If 'yes', please provide the following information:</h2>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Is the site Freehold or Leasehold?</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="freeorlease" type="text" size="10" name="FreeOrLease"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Street and Number:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="siteaddress1" type="text" size="15" name="SiteAddress1"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>City:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="sitecity" type="text" size="15" name="SiteCity"></input>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Province/Territory:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="siteprovince" type="text" size="15" name="SiteProvince"></input>
+
+                                                                </td>
+
+                                                            </tr>                       
+
+                                                            <tr>
+
+                                                                <td>
+
+                                                                    <p>Zip/Post Code:</p>
+
+                                                                </td>
+
+                                                                <td>
+
+                                                                    <input id="sitezipcode" type="text" size="8" name="SiteZipcode"></input>
+
+                                                                </td>
+
+                                                            </tr>                           
+
+                                                            
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                    <table cellspacing="2" cellpadding="0" border="0">
+
+                                                                        <tbody>
+
+                                                                            <tr>
+
+                                                                                <td height="25" colspan="2">
+
+                                                                                    <h2 class="formtable">Which locations are you interested in?</h2>
+
+                                                                                </td>
+
+                                                                            </tr>
+
+                                                                            <tr>
+
+                                                                                <td height="30">
+
+                                                                                    <p>Location 1:</p>
+
+                                                                                </td>
+
+                                                                                <td>
+
+                                                                                    <input id="location1" type="text" size="15" name="Location1"></input>
+
+                                                                                </td>
+
+                                                                            </tr>
+
+                                                                            <tr>
+
+                                                                                <td height="30">
+
+                                                                                    <p>Location 2:</p>
+
+                                                                                </td>
+
+                                                                                <td>
+
+                                                                                    <input id="location2" type="text" size="15" name="Location2"></input>
+
+                                                                                </td>
+
+                                                                            </tr>
+
+                                                                        </tbody>
+
+                                                                    </table>                            
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                    <table cellspacing="2" cellpadding="0" border="0">
+
+                                                                        <tbody>
+
+                                                                            <tr>
+
+                                                                                <td>
+
+                                                                                    <p class="strongbackground">Please give a brief explanation of your business background</p>
+
+                                                                                </td>
+
+                                                                                <td>
+
+                                                                                    <textarea style="margin-left:115px;" id="background" cols="40" rows="5" name="Background" class="bizbackground"></textarea>                                                
+
+                                                                                </td>
+
+                                                                            </tr>
+
+                                                                            <tr>
+
+                                                                                <td>
+
+
+
+                                                                                </td>
+
+                                                                            </tr>
+
+                                                                        </tbody>
+
+                                                                    </table>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                
+
+                                                                
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                            
+
+                                            <!--                    <tr>
+
+                                                                <td colspan="2">
+
+                                                                    <table cellspacing="2" cellpadding="0" border="0">
+
+                                                                        <tbody>
+
+                                                                            <tr>
+
+                                                                                <td>
+
+                                                                                    <p class="strongbackground">Please attach CV:</p>
+
+                                                                                    <input id="CV" type="file" size="15" name="CV"></input>                                             
+
+                                                                                </td>
+
+                                                                            </tr>
+
+                                                                            <tr>
+
+                                                                                <td>
+
+
+
+                                                                                </td>
+
+                                                                            </tr>
+
+                                                                        </tbody>
+
+                                                                    </table>
+
+                                                                </td>
+
+                                                            </tr>
+
+                                            -->
+
+                                                            <tr>
+
+                                                                <td colspan="2">
+
+                                                                                                                                          <input type="hidden" name="rcapt" id="rcapt" value="6yJKp 8ytr$">
+
+
+
+                                                                
+
+                                                                    <div id="captchaimage">
+
+                                                                            <img src="./captcha/4.jpg"/>
+
+                                                                            <p class='strongbackground'>Please Enter Above Phrase Below</p>                                                                    </div>
+
+                                                                    <input id="captcha" type="text" size="15" name="captcha"></input>
+
+                                                                
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                                
+
+                                                            <tr>
+
+                                                                 
+
+                                                                <td valign="middle" nowrap="nowrap" height="40" align="left" colspan="2">
+
+                                                                    <input type="submit" id="cmdCheck"  value="Submit"></input>
+
+                                                                    <input type="button" id="cmdReset" value="Reset"></input>                           
+
+                                                                </td>
+
+                                                            </tr>
+
+                                                        </tbody>
+
+                                                    </table>
+
+                                                </td>
+
+                                                <td>
+
+                                                </td>
+
+                                            </tr>
+
+                                        </tbody>
+
+                                    </table>
+
+                                </form>
+
+		 </div>
+
+		 
+
+
+
+</html>
+
+
